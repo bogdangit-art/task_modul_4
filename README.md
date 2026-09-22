@@ -67,7 +67,7 @@ e) Transformam input utilizatorilor in Series pentru a putea aplica modelul de p
  
 a). In folderul data am uploadat dateset csv si modelul salvat pkl.
 
-b). Separat in google colab am facut am transpus cele 3 scripturi python in notebook-uri diferite care sa faca acelasi lucru si le-am salvat din colab in Github, in folderul Notebooks.
+b). Separat in google colab am transpus cele 3 scripturi python in notebook-uri diferite care sa faca acelasi lucru si le-am salvat din colab in Github, in folderul Notebooks.
 
 c) Procedura prin care sa creez un fisier pkl prin Colab mi s-a parut complicata asa ca am uploadat pkl local obtinut pur si simplu.
 
